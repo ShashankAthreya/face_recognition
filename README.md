@@ -21,6 +21,11 @@ This repository contains the necessary actions required to run the face_recognit
 ##### face_recognition
 
     pip install face_recognition
+There is an usual error of dlib for new users, for that, use the following and then run the above command
+
+    sudo apt-get install build-essential cmake
+    sudo apt-get install libgtk-3-dev
+    sudo apt-get install libboost-all-dev
 ##### Pillow
 
     pip install Pillow
