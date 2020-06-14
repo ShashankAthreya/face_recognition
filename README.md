@@ -34,7 +34,7 @@ There is an usual error of dlib for new users, for that, use the following and t
     pip install ipython
 ##### Pickle
 
-    pip install pickle
+    pip install pickle5
 ##### pandas
 
     pip install pandas
